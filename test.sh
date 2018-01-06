@@ -1,1 +1,1 @@
-echo "hello world!"
+tail -f a.txt
